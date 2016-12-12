@@ -1,0 +1,41 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+
+
+body{
+	background-color:#01DFD7;
+}
+
+#title{
+	font-size:120px;
+	color:pink;
+	margin:0px 100px 50px 700px;
+	position:fixed;
+	font-family:helvetica;
+}
+
+.para{
+	font-size:30px;
+	color:white;
+	font-family:helvetica;
+	margin-top:100px;
+
+	margin-right:700px;
+	margin-left:50px;
+	
+
+}
+
+.secpara{
+	font-size:30px;
+	color:white;
+	font-family:helveticax;
+	margin-top: -100px;
+
+	margin-right:50px;
+	margin-left:700px;
+
+}

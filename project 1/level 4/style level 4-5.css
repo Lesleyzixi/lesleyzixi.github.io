@@ -1,0 +1,28 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+
+body {
+	background-color:pink;
+}
+
+.one {
+	background-color:black;
+	color:red;
+	font-size:50px;
+	font-family:helvetica;
+	padding:50px;
+
+}
+
+h1 {
+	text-decoration: underline;
+	color:white;
+	font-size:100px;
+	position: fixed;
+	font-family:helvetica;
+	margin:100px 0 0 100px;
+
+}

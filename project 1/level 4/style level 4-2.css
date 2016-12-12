@@ -1,0 +1,44 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+
+
+body{
+	background-color:#DAF7A6;
+}
+
+#title{
+	font-size: 180px;
+	color:white;
+	background-color:pink;
+	position:absolute;
+	margin-right:100%;
+	margin-top:-20px;
+	position:fixed;
+
+}
+
+.para{
+	font-size:50px;
+	color:pink;
+	margin-top:20px;
+	font-weight:bold;
+	text-align:right;
+	margin-left:500px;
+	margin-right:30px;
+
+
+}
+
+
+.secpara{
+	font-size:50px;
+	color:pink;
+	font-weight:bold;
+	text-align:right;
+	margin-left:500px;
+	margin-right:30px;
+	
+}

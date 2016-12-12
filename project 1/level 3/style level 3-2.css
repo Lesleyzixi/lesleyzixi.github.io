@@ -1,0 +1,28 @@
+#title{
+	position:absolute;
+	margin-left: 300px;
+	background-color: pink;
+	color:white;
+}
+
+.first{
+	float:left;
+	padding:100px 300px 0px 50px;
+	color:green;
+}
+.second{
+	float:right;
+	padding:100px 300px 0px 50px;
+	color:blue;
+}
+
+.third{
+	float:left;
+	padding:100px 300px 0px 50px;
+	color:red;
+}
+.forth{
+	float:right;
+	padding:100px 300px 0px 50px;
+	color:purple;
+}

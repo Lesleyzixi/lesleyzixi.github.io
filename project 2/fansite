@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>colinfirth's fansite</title>
+	<link rel="stylesheet" href="style.css">
+	<link href="https://fonts.googleapis.com/css?family=Vidaloka" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+	</head>
+	<body>
+		<div class="title">
+			Colin Firth
+
+			<nav>
+  				
+   				<a href="#">Video</a>
+  				<a href="#">Photo</a>
+    			<a href="#">Audio</a>
+    			<a href="#">Movie</a>
+    			<a href="#">Quote</a>
+  				<a href="#">Text</a>
+  				
+			</nav>
+			<div class="followus">
+				<a class="followus" href="#">Follow us</a>
+			</div>
+		</div>
+
+		<div class="single">
+		<iframe width="100%" height="660" src="https://www.youtube.com/embed/KpGncCKfZLI" frameborder="0" allowfullscreen></iframe>
+		</div>
+
+		<p>
+		Welcome! Your #1 tumblr source for everything related to the oscar-winning actor, Colin Firth. Colin is best-known for his role in The King’s Speech, as King George VI, but for other films too such as Love Actually, A Single Man or the TV series Pride and Prejudice. Here you’ll find news, recent photos and original fan-made content of Colin. 
+		</p>
+
+		
+
+
+	<a class="lightbox" href="#goofy">
+  		 <img src="http://7wallpapers.net/wp-content/uploads/13_Colin-Firth.jpg" width="500" height="600"/>
+	</a> 
+	<div class="lightbox-target" id="goofy">
+   		<img src="http://7wallpapers.net/wp-content/uploads/13_Colin-Firth.jpg" />
+   	<a class="lightbox-close" href="#"></a>
+	</div>
+
+
+
+		<p class="quote">
+		"I absolutely don’t care about my looks and I’m so used to them that I wouldn’t change a thing. I would end up missing my defects."
+		</p>
+
+		<div class="bestactor">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/9aO5R6ezqio" frameborder="0" allowfullscreen></iframe>
+		</div>
+
+		<p class="fuck">
+		“Fuck. Fuck! Fuck, fuck, fuck and fuck! Fuck, fuck and bugger! Bugger, bugger, buggerty buggerty buggerty, fuck, fuck, arse!”
+			 		    <br>— The King’s Speech
+		</p>
+
+
+		<div class="music">
+			<iframe width="300" height="315" src="https://www.youtube.com/embed/o94D0d-xED0" frameborder="0" allowfullscreen></iframe>
+		</div>
+
+		<div class="img2">
+		<img src="https://67.media.tumblr.com/c02b61e39c6c80fa9eeff95f722acee1/tumblr_mpyww7lawm1qbyrb5o1_500.jpg" width="500" height="362">
+		</div>
+		
+		<p class="interview">
+			<a href="http://richardbenson.com/not-posh-actually-an-interview-with-colin-firth">An Interview With Colin Firth</a>
+		</p>
+			
+
+		<div class="pages">
+
+   				<a href="#">1</a></li>
+  				<a href="#">2</a></li>
+    			<a href="#">3</a></li>
+    			<a href="#">4</a></li>
+    			<a href="#">5</a></li>
+  				<a href="#">6</a></li>
+  		</div>
+
+
+
+
+
+
+		
+
+	</body>

@@ -1,0 +1,43 @@
+div{
+	border-radius: 36px;
+	background-color:blue;
+
+}
+
+.first{
+	padding:30px 20px 30px 20px;
+	color:white;
+	float:left;
+	height:300px;
+	width:300px;
+}
+
+.second{
+	padding:30px 20px 30px 20px;
+	color:white;
+	float:right;
+	height:300px;
+	width:300px;
+	background-color:pink;
+	margin:100px 0px 0px 500px;
+}
+
+.third{
+	padding:30px 20px 30px 20px;
+	color:white;
+	float:right;
+	height:300px;
+	width:300px;
+	background-color:orange;
+	margin:50px -500px -500px -500px;
+}
+
+.forth{
+	padding:30px 20px 30px 20px;
+	color:white;
+	float:right;
+	height:300px;
+	width:300px;
+	background-color:green;
+	margin:50px -500px -500px -100px;
+}

@@ -1,0 +1,238 @@
+body {
+	background-color:#003e66;
+	color:white;
+  font-family: 'Vidaloka', serif;
+
+}
+
+.title {
+  margin-top:-200px;
+  font-size:45px;
+  font-family: 'Vidaloka', serif;
+  color:white;
+  position:fixed;
+
+}
+
+nav a {
+    color: white;
+    font-size:30px;
+    font-family: 'Vidaloka', serif;
+    text-decoration: none;
+    padding:20px;
+    margin-left:-10px;
+    margin-top:20px;
+    position:relative;
+}
+
+nav a: hover {
+  color:orange;
+}
+
+.followus {
+  color:orange;
+  font-size:30px;
+  font-family: 'Vidaloka', serif;
+  margin-left:5px;
+  margin-top:10px;
+  position:relative;
+
+}
+.single {
+  margin-top:250px;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-size:18px;
+  margin:30px 330px 0px 330px;
+  text-align:center;
+}
+
+
+.img1{
+  margin-top:80px;
+  margin-left:15px;
+}
+
+.quote {
+  font-size:50px;
+  margin-right:40px;
+  margin-left:600px;
+  margin-top:-500px;
+  text-align:left;
+}
+
+.bestactor {
+  margin: 280px 0px 0px 600px;
+}
+
+.fuck {
+  margin:-300px 700px 0px 30px;
+  font-size:30px;
+  text-align:left;
+  padding:20px;
+}
+
+.music {
+  margin-top:200px;
+  margin-left:50px;
+}
+
+.img2 {
+  margin:-200px 20px 0px 400px;
+}
+
+.interview a {
+  color:white;
+  font-size:30px;
+  margin-top:80px;
+
+}
+
+
+
+.pages a{
+  color:white;
+  text-decoration: none;
+  padding:15px;
+  
+}
+
+.pages {
+  margin:50px 100px 0px 350px;
+}
+
+
+
+
+
+/*Eliminates padding, centers the thumbnail */
+
+
+
+/* Styles the thumbnail */
+
+a.lightbox img {
+
+border: 3px solid white;
+box-shadow: 0px 0px 8px rgba(0,0,0,.3);
+margin: 94px 20px 20px 20px;
+}
+
+/* Styles the lightbox, removes it from sight and adds the fade-in transition */
+
+.lightbox-target {
+position: fixed;
+top: -100%;
+width: 100%;
+background: rgba(0,0,0,.7);
+width: 100%;
+opacity: 0;
+-webkit-transition: opacity .5s ease-in-out;
+-moz-transition: opacity .5s ease-in-out;
+-o-transition: opacity .5s ease-in-out;
+transition: opacity .5s ease-in-out;
+overflow: hidden;
+}
+
+/* Styles the lightbox image, centers it vertically and horizontally, adds the zoom-in transition and makes it responsive using a combination of margin and absolute positioning */
+
+.lightbox-target img {
+margin: auto;
+position: absolute;
+top: 0;
+left:0;
+right:0;
+bottom: 0;
+max-height: 0%;
+max-width: 0%;
+border: 3px solid white;
+box-shadow: 0px 0px 8px rgba(0,0,0,.3);
+box-sizing: border-box;
+-webkit-transition: .5s ease-in-out;
+-moz-transition: .5s ease-in-out;
+-o-transition: .5s ease-in-out;
+transition: .5s ease-in-out;
+}
+
+/* Styles the close link, adds the slide down transition */
+
+a.lightbox-close {
+display: block;
+width:50px;
+height:50px;
+box-sizing: border-box;
+background: white;
+color: black;
+text-decoration: none;
+position: absolute;
+top: -80px;
+right: 0;
+-webkit-transition: .5s ease-in-out;
+-moz-transition: .5s ease-in-out;
+-o-transition: .5s ease-in-out;
+transition: .5s ease-in-out;
+}
+
+/* Provides part of the "X" to eliminate an image from the close link */
+
+a.lightbox-close:before {
+content: "";
+display: block;
+height: 30px;
+width: 1px;
+background: black;
+position: absolute;
+left: 26px;
+top:10px;
+-webkit-transform:rotate(45deg);
+-moz-transform:rotate(45deg);
+-o-transform:rotate(45deg);
+transform:rotate(45deg);
+}
+
+/* Provides part of the "X" to eliminate an image from the close link */
+
+a.lightbox-close:after {
+content: "";
+display: block;
+height: 30px;
+width: 1px;
+background: black;
+position: absolute;
+left: 26px;
+top:10px;
+-webkit-transform:rotate(-45deg);
+-moz-transform:rotate(-45deg);
+-o-transform:rotate(-45deg);
+transform:rotate(-45deg);
+}
+
+/* Uses the :target pseudo-class to perform the animations upon clicking the .lightbox-target anchor */
+
+.lightbox-target:target {
+opacity: 1;
+top: 0;
+bottom: 0;
+}
+
+.lightbox-target:target img {
+max-height: 100%;
+max-width: 100%;
+}
+
+.lightbox-target:target a.lightbox-close {
+top: 0px;
+}
+VIEW COMPILED
+
+
+
+
+
+
+
+
+
+

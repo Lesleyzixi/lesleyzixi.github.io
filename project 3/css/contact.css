@@ -1,0 +1,148 @@
+
+/* above is loading*/
+
+
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+.right {
+	width:75%;
+	height:100%;
+	background:#f1c3c6;
+	left:350px;
+	top:0px;
+	overflow:scroll;
+	position:fixed;
+	z-index: -1000000;
+}
+.left {
+	width:25%;
+	height:100%;
+	overflow:scroll;
+	position:fixed;
+	left:30px;
+}
+
+body {
+    background-image: url("http://www.thisiscolossal.com/wp-content/uploads/2016/03/dance-3.gif");
+}
+
+
+
+
+
+
+
+
+.right img {
+	margin-left:100px;
+	margin-top:50px;
+}
+
+.lw {
+	left:50px;
+	top:30px;
+	transform: rotate(-11deg);
+	position:fixed;
+	z-index: 1000000;
+}
+
+.logo {
+	top:180px;
+	left:30px;
+	position:absolute;
+
+}
+
+.planb {
+	position: absolute;
+	top:340px;
+	left:110px;
+}
+
+.letterr {
+	position: absolute;
+	top:570px;
+	left:30px;
+}
+
+.letterh {
+	position:absolute;
+	top:750px;
+	left:110px;
+}
+.poster1 {
+	position:absolute;
+	top:930px;
+	left:30px;
+}
+.logo2 {
+	position: absolute;
+	top:1170px;
+	left:100px;
+}
+
+header nav {
+	float:right;
+	right:100px;
+	top:20px;
+	position:fixed;
+
+}
+
+header nav ul {
+	line-style:none;
+
+
+}
+header nav ul li {
+	display:inline-block;
+	font-size: 50px;
+	margin-left: 10px;
+	
+}
+
+header nav ul li a {
+	text-decoration: none;
+	color:white;
+	font-family:'Raleway', sans-serif;
+	font-size:20px;
+	left:500px;
+}
+
+
+
+a {
+	color:rgb(93,175,144);
+	transition: all .10s ease
+	-webkit-transition: all .10s ease;
+}
+a:hover {
+ 	color:#DAF7A6;
+ 	font-size: 30px;
+ }
+
+ div.content {
+   font-family: helvetica;
+   color:white;
+   font-size: 25px;
+   font-weight: 700;
+   padding: 20px;
+   margin-left: 80px;
+   margin-top: 200px;
+   margin-bottom: 1em;
+}
+
+div.content p {
+   text-decoration: underline;
+   font-size:30px;
+
+}
+
+
+
